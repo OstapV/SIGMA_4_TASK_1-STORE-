@@ -1,0 +1,10 @@
+Name: asda
+Price: 32232
+Weight: 44
+Date: 14.02.2021
+Expiration date: 66
+Name: asda
+Price: 32232
+Weight: 44
+Date: 14.02.2021
+Expiration date: 66
